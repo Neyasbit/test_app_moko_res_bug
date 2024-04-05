@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common block start -->
+    <string name="retry">Попробовать снова</string>
+    <string name="go_to_the_menu">Перейти в меню</string>
+    <string name="make_an_appointment">Назначить встречу</string>
+    <string name="read_completely">Читать полностью</string>
+    <string name="info">Инфо</string>
+    <string name="chat">Чат</string>
+    <string name="program">Программа</string>
+    <string name="save">Сохранить</string>
+    <string name="not_specified">Не указано</string>
+    <!-- common block end -->
+
+    <!-- common block errors start -->
+    <string name="no_internet">Ошибка интернет соединения</string>
+    <string name="no_internet_connection">Отсутствует подключение к сети!</string>
+    <!-- common block errors end -->
+
+    <string name="search_hint">Поиск события</string>
+    <string name="promo_code_event">Промокод:</string>
+    <string name="all">Все</string>
+
+    <!-- content description -->
+    <string name="cd_go_to">Перейти в %s</string>
+    <string name="cd_search">Поиск</string>
+    <string name="cd_close">Закрыть</string>
+    <string name="cd_edit">Редактировать</string>
+    <string name="cd_avatar">Фотография пользователя</string>
+    <string name="cd_back">Назад</string>
+
+    <!--auth block-->
+    <string name="auth_title">Авторизация</string>
+    <string name="auth_description">Зайдите в мобильное приложение по коду, полученному по почте</string>
+    <string name="auth_email_hint">Ваша почта</string>
+    <string name="auth_enter_code_hint">Введите код</string>
+    <string name="auth_error">Ошибка авторизации</string>
+    <string name="auth_error_empty_email">Поле почта, не может быть пустым</string>
+    <string name="auth_error_empty_password">Поле код, не может быть пустым</string>
+    <string name="auth_enter_button_title">Авторизоваться</string>
+    <string name="auth_re_enter_button_title">Ввести заново</string>
+    <!--auth block end-->
+
+    <!--start up village block-->
+    <string name="menu_tracks_title">Треки</string>
+    <string name="menu_speakers_title">Спикеры</string>
+    <string name="menu_schedule_title">Расписание</string>
+    <string name="menu_participants_title">Участники</string>
+    <string name="menu_messages_title">Мои сообщения</string>
+    <string name="menu_meetings_title">Встречи</string>
+    <string name="menu_newsline_title">Лента новостей</string>
+    <string name="menu_partners_title">Партнеры</string>
+    <string name="menu_bazar_title">Startap_Bazaar</string>
+    <string name="menu_scheme_sites_title">Схема площадки</string>
+    <string name="menu_my_notes_title">Мои записи</string>
+    <string name="menu_qr_title">QR-визитка</string>
+    <string name="menu_invest_hub_title">Invest Hub</string>
+    <string name="menu_my_profile_title">Мой профиль</string>
+    <string name="menu_support_title">Техническая поддержка</string>
+
+    <!--Speakers block -->
+    <string name="speaker_search_hint">Поиск Спикера</string>
+    <string name="speakers_tittle">Спикеры</string>
+    <string name="speaker_tittle">Спикер</string>
+    <string name="speaker_about_tittle">О спикере</string>
+    <!--Speakers block end-->
+
+    <!--Participants block -->
+    <string name="participants_search_hint">Поиск участника</string>
+    <string name="participants_tittle">Участники</string>
+    <string name="participant_tittle">Участник</string>
+    <!--Participants block end-->
+
+    <!--Tracks block -->
+    <string name="tracks_tittle">Треки</string>
+    <string name="track_tittle">Трек</string>
+    <!--Tracks block end-->
+
+    <!--Startup Bazaar block -->
+    <string name="bazaar_tittle">Startap_Bazaar</string>
+    <string name="exhibitor_tittle">Экспонент</string>
+    <string name="exhibitor_description_project">Описание проекта</string>
+    <string name="exhibitor_advantages_project">КОНКУРЕНТНЫЕ ПРЕИМУЩЕСТВА ПРОДУКТА</string>
+    <string name="exhibitor_feature_project">ОСОБЕННОСТИ «ФИШКА» ПРОДУКТА/ПРОЕКТА</string>
+    <!--Startup Bazaar block end-->
+
+
+
+    <!--my profile block-->
+    <string name="profile_contact_info">\%s\ / \%s\</string>
+    <string name="profile_info_title">Инфо</string>
+    <string name="profile_option_my_meetings">Мои встречи</string>
+    <string name="profile_edit_title">Редактирование профиля</string>
+    <string name="profile_avatar">Аватар</string>
+    <string name="profile_personal_data">Личные данные</string>
+    <string name="profile_professional_info">Профессиональная информация</string>
+    <string name="profile_first_name">Имя</string>
+    <string name="profile_middle_name">Отчество</string>
+    <string name="profile_last_name">Фамилия</string>
+    <string name="profile_phone">Телефон</string>
+    <string name="profile_e_mail">E-mail</string>
+    <string name="profile_work_position">Должность</string>
+    <string name="profile_company">Компания</string>
+
+    <!--my profile block end-->
+
+    <!--start up village block end-->
+
+</resources>

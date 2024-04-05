@@ -1,0 +1,101 @@
+{
+  "settings": {
+    "grid": {
+      "row": 6,
+      "column": 3
+    },
+    "indexEmptyCell": 14
+  },
+  "menuItems": [
+    {
+      "type": "Tracks",
+      "displayName": "Треки",
+      "iconName": "ic_star",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Speakers",
+      "displayName": "Спикеры",
+      "iconName": "ic_speaker",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Schedule",
+      "displayName": "Расписание",
+      "iconName": "ic_schedule",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Participants",
+      "displayName": "Участники",
+      "iconName": "ic_persons",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "MyMessages",
+      "displayName": "Мои\nсообщения",
+      "iconName": "ic_message",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Meetings",
+      "displayName": "Встречи",
+      "iconName": "ic_hand_outline_gesture",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "NewsLine",
+      "displayName": "Лента\nновостей",
+      "iconName": "icon_news_newspaper",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Partners",
+      "displayName": "Партнеры",
+      "iconName": "ic_building_company",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Bazaar",
+      "displayName": "Startap_\nBazaar",
+      "iconName": "ic_briefcase",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "SchemeSites",
+      "displayName": "Схема\nплощадки",
+      "iconName": "ic_world",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "MyNotes",
+      "displayName": "Мои\nзаписи",
+      "iconName": "ic_notes",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Qr",
+      "displayName": "QR-\nвизитка",
+      "iconName": "ic_qr_scan",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "InvestHub",
+      "displayName": "Invest\nHub",
+      "iconName": "ic_invest_hub",
+      "isMaxSpanLine": true
+    },
+    {
+      "type": "MyProfile",
+      "displayName": "Мой\nпрофиль",
+      "iconName": "ic_profile",
+      "isMaxSpanLine": false
+    },
+    {
+      "type": "Support",
+      "displayName": "Техническая\nподдержка",
+      "iconName": "ic_help_circle",
+      "isMaxSpanLine": false
+    }
+  ]
+}
